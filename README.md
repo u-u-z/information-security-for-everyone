@@ -14,7 +14,7 @@
 * [为什么？这些和我无关啊](0-why-me-humm.md)
 * [其实，这些你很容易做到](1-0-you-can-easily-do-this.md)
   * [你的密码](1-1-your-password.md)
-  * 智能手机
+  * [智能手机](1-2-ur-phone.md)
   * 个人电脑
   * 网上冲浪的几个好习惯
   * 路由器、WiFi、网络设备
